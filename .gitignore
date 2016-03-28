@@ -15,5 +15,5 @@
 *.iws
 
 #source file
-.class
+*.class
 
