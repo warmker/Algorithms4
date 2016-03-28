@@ -1,0 +1,19 @@
+#Maven
+/target/
+
+
+#Eclipse
+/.settings/
+/.classpath
+/.project
+
+
+#Intellij-idea
+.idea/
+*.iml
+*.ipr
+*.iws
+
+#source file
+.class
+
